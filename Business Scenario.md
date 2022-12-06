@@ -44,6 +44,16 @@ RTO charges (“rto”) should be applicable as per zone and fixed & additional 
 For the first 0.5 KG, “fixed” rate as per the slab is applicable. 
 For each additional 0.5 KG, “additional” weight in the same proportion is applicable. Total charges will be “fixed” + “total additional” if any
 
+Output Data:
+
+Based on the above scenario, we need 2 outputs:
+- Output Data 1
+- Output Data 2
+
+Refer the corresponding .sql files for further details.
+
 NOTE: 
+
 ZAMAZOR's tables: Order Report, SKU Master, Pincode Zones 
+
 Courier Companies tables: Invoice, Rates
